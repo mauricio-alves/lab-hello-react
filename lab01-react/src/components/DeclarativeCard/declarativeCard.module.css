@@ -1,0 +1,12 @@
+.container {
+  width: 200px;
+}
+
+.container p {
+  margin-top: 20px;
+}
+
+.container h2,
+.container p {
+  margin-left: 20px;
+}

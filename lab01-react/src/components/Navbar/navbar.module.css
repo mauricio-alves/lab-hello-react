@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.container img {
+  width: 40px;
+  margin-right: 40px;
+}
+
+.container .navImg {
+  height: 20px;
+  width: 20px;
+}
